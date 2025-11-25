@@ -27,9 +27,6 @@
   <a href="https://linkedin.com/in/rafaeldiaseneias" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:rafaeleneias02@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-34A853?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </p>
 
 ---
@@ -51,14 +48,6 @@
 
 ---
 
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldiaseneias&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 🚀 Projetos em Construção
 
 Atualmente estou desenvolvendo projetos para praticar e evoluir minhas habilidades, como:
@@ -71,16 +60,3 @@ Atualmente estou desenvolvendo projetos para praticar e evoluir minhas habilidad
 **
 
 ---
-
-## 🔥 Energia de Commits
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafaeldiaseneias&theme=react-dark"/>
-</p>
-
----
-
-<p align="center">
-  <em>“Continue construindo. Um commit por vez.”</em> 🟩
-</p>
-'
