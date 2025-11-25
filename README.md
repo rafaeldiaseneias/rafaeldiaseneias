@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img width="450" src="https://i.imgur.com/8Q2QX48.gif">
+  <img width="450" src="https://4kwallpapers.com/technology/java-black-16069.html">
 </p>
 
 ---
