@@ -47,16 +47,3 @@
 - IntelliJ IDEA
 
 ---
-
-## 🚀 Projetos em Construção
-
-Atualmente estou desenvolvendo projetos para praticar e evoluir minhas habilidades, como:
-
-- API REST em Java com Spring Boot  
-- CRUD completo com MySQL + Spring Data JPA  
-- Sistema simples de cadastro e login  
-- Estudos de lógica e algoritmos em Java  
-
-**
-
----
